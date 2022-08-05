@@ -10,7 +10,7 @@ import { SiAzuredevops } from "react-icons/si";
 
 function services() {
   return (
-    <div className="flex-col justify-center items-center my-20">
+    <div id="services" className="flex-col justify-center items-center my-20">
       <p className="text-violet-500 uppercase text-center">Services</p>
       <h2 className="text-5xl  text-center">
         Our Best<span className="font-bold"> Services</span>
